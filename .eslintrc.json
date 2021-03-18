@@ -16,6 +16,7 @@
         "@typescript-eslint"
     ],
     "rules": {
+        "max-len": ["error", 180, 4],
         "indent": [
             "error",
             4
